@@ -4,7 +4,7 @@
 
 Prima uses the OpenType format and contains a number of features that provide additional, optional functionality. 
 
-The characterset of Prima currently supports 204 languages that are written in the Latin script.
+The characterset of Prima currently supports 205 languages that are written in the Latin script.
 
 ## Design principles
 
