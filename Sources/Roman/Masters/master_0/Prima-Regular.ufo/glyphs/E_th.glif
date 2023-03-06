@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-	<unicode hex="00D0"/>
 	<advance width="1493"/>
+	<unicode hex="00D0"/>
 	<outline>
 		<component base="D" xOffset="140"/>
 		<component base="barcomb.case" xOffset="90"/>

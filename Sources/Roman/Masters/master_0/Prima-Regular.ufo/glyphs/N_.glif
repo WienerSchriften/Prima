@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
-	<unicode hex="004E"/>
 	<advance width="1355"/>
+	<unicode hex="004E"/>
+	<anchor x="610" y="0" name="bottom"/>
+	<anchor x="756" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="186" y="-12" type="curve" smooth="yes"/>
@@ -46,8 +48,6 @@
 			<point x="164" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="610" y="0"/>
-	<anchor name="top" x="756" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

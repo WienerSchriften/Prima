@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jacute" format="2">
-	<unicode hex="FC001"/>
 	<advance width="896"/>
+	<unicode hex="FC001"/>
 	<outline>
 		<component base="J"/>
 		<component base="acutecomb.case" xOffset="568" yOffset="690"/>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-	<unicode hex="0044"/>
 	<advance width="1353"/>
+	<unicode hex="0044"/>
+	<anchor x="330" y="0" name="bottom"/>
+	<anchor x="245" y="829" name="center"/>
+	<anchor x="593" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="336" y="-12" type="curve" smooth="yes"/>
@@ -40,9 +43,6 @@
 			<point x="797" y="66"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="330" y="0"/>
-	<anchor name="center" x="245" y="829"/>
-	<anchor name="top" x="593" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

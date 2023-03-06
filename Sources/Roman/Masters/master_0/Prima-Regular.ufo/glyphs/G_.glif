@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
-	<unicode hex="0047"/>
 	<advance width="1417"/>
+	<unicode hex="0047"/>
+	<anchor x="637" y="-12" name="bottom"/>
+	<anchor x="840" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="637" y="-12" type="curve" smooth="yes"/>
@@ -64,8 +66,6 @@
 			<point x="367" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="637" y="-12"/>
-	<anchor name="top" x="840" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

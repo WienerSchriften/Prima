@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thinspace" format="2">
-	<unicode hex="2009"/>
 	<advance width="250"/>
+	<unicode hex="2009"/>
+	<outline>
+	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

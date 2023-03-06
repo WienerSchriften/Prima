@@ -608,36 +608,6 @@ Wiener Bildungsservers, 2021–23.</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
 		<string>whiteHeart</string>
-		<string>heavyBlackHeart</string>
-		<string>heartsuitwhite</string>
-		<string>heartsuitblack</string>
-		<string>pencil</string>
-		<string>pencil.cv01</string>
-		<string>lowerRightPencil</string>
-		<string>upperRightPencil</string>
-		<string>arrowup</string>
-		<string>arrowright</string>
-		<string>arrowdown</string>
-		<string>arrowleft</string>
-		<string>s_e_h_r_g_u_t_exclam</string>
-		<string>B_r_a_v_o_exclam_exclam_exclam</string>
-		<string>Y_e_a_h_exclam</string>
-		<string>whiteLeftBackhandIndex</string>
-		<string>whiteLeftBackhandIndex.cv01</string>
-		<string>whiteLeftBackhandIndex.cv02</string>
-		<string>whiteLeftBackhandIndex.cv03</string>
-		<string>whiteRightBackhandIndex</string>
-		<string>whiteRightBackhandIndex.cv01</string>
-		<string>whiteRightBackhandIndex.cv02</string>
-		<string>whiteRightBackhandIndex.cv03</string>
-		<string>whiteUpBackhandIndex</string>
-		<string>whiteUpBackhandIndex.cv01</string>
-		<string>whiteUpBackhandIndex.cv02</string>
-		<string>whiteUpBackhandIndex.cv03</string>
-		<string>whiteDownBackhandIndex</string>
-		<string>whiteDownBackhandIndex.cv01</string>
-		<string>whiteDownBackhandIndex.cv02</string>
-		<string>whiteDownBackhandIndex.cv03</string>
 		<string>finial</string>
 		<string>finial.A</string>
 		<string>finial.H</string>
@@ -762,6 +732,37 @@ Wiener Bildungsservers, 2021–23.</string>
 		<string>joint.fschwa</string>
 		<string>joint.qschwa</string>
 		<string>joint.schwao</string>
+		<string>whiteHeart</string>
+		<string>heavyBlackHeart</string>
+		<string>heartsuitwhite</string>
+		<string>heartsuitblack</string>
+		<string>pencil</string>
+		<string>pencil.cv01</string>
+		<string>lowerRightPencil</string>
+		<string>upperRightPencil</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
+		<string>arrowdown</string>
+		<string>arrowleft</string>
+		<string>whiteUpBackhandIndex</string>
+		<string>whiteUpBackhandIndex.cv01</string>
+		<string>whiteUpBackhandIndex.cv02</string>
+		<string>whiteUpBackhandIndex.cv03</string>
+		<string>whiteDownBackhandIndex</string>
+		<string>whiteDownBackhandIndex.cv01</string>
+		<string>whiteDownBackhandIndex.cv02</string>
+		<string>whiteDownBackhandIndex.cv03</string>
+		<string>whiteLeftBackhandIndex</string>
+		<string>whiteLeftBackhandIndex.cv01</string>
+		<string>whiteLeftBackhandIndex.cv02</string>
+		<string>whiteLeftBackhandIndex.cv03</string>
+		<string>whiteRightBackhandIndex</string>
+		<string>whiteRightBackhandIndex.cv01</string>
+		<string>whiteRightBackhandIndex.cv02</string>
+		<string>whiteRightBackhandIndex.cv03</string>
+		<string>s_e_h_r_g_u_t_exclam</string>
+		<string>Y_e_a_h_exclam</string>
+		<string>B_r_a_v_o_exclam_exclam_exclam</string>
 	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
@@ -1343,37 +1344,6 @@ Wiener Bildungsservers, 2021–23.</string>
 		<string>macron</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
-		<string>whiteHeart</string>
-		<string>heavyBlackHeart</string>
-		<string>heartsuitwhite</string>
-		<string>heartsuitblack</string>
-		<string>pencil</string>
-		<string>pencil.cv01</string>
-		<string>lowerRightPencil</string>
-		<string>upperRightPencil</string>
-		<string>arrowup</string>
-		<string>arrowright</string>
-		<string>arrowdown</string>
-		<string>arrowleft</string>
-		<string>s_e_h_r_g_u_t_exclam</string>
-		<string>B_r_a_v_o_exclam_exclam_exclam</string>
-		<string>Y_e_a_h_exclam</string>
-		<string>whiteLeftBackhandIndex</string>
-		<string>whiteLeftBackhandIndex.cv01</string>
-		<string>whiteLeftBackhandIndex.cv02</string>
-		<string>whiteLeftBackhandIndex.cv03</string>
-		<string>whiteRightBackhandIndex</string>
-		<string>whiteRightBackhandIndex.cv01</string>
-		<string>whiteRightBackhandIndex.cv02</string>
-		<string>whiteRightBackhandIndex.cv03</string>
-		<string>whiteUpBackhandIndex</string>
-		<string>whiteUpBackhandIndex.cv01</string>
-		<string>whiteUpBackhandIndex.cv02</string>
-		<string>whiteUpBackhandIndex.cv03</string>
-		<string>whiteDownBackhandIndex</string>
-		<string>whiteDownBackhandIndex.cv01</string>
-		<string>whiteDownBackhandIndex.cv02</string>
-		<string>whiteDownBackhandIndex.cv03</string>
 		<string>finial</string>
 		<string>finial.A</string>
 		<string>finial.H</string>
@@ -1498,6 +1468,37 @@ Wiener Bildungsservers, 2021–23.</string>
 		<string>joint.fschwa</string>
 		<string>joint.qschwa</string>
 		<string>joint.schwao</string>
+		<string>whiteHeart</string>
+		<string>heavyBlackHeart</string>
+		<string>heartsuitwhite</string>
+		<string>heartsuitblack</string>
+		<string>pencil</string>
+		<string>pencil.cv01</string>
+		<string>lowerRightPencil</string>
+		<string>upperRightPencil</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
+		<string>arrowdown</string>
+		<string>arrowleft</string>
+		<string>whiteUpBackhandIndex</string>
+		<string>whiteUpBackhandIndex.cv01</string>
+		<string>whiteUpBackhandIndex.cv02</string>
+		<string>whiteUpBackhandIndex.cv03</string>
+		<string>whiteDownBackhandIndex</string>
+		<string>whiteDownBackhandIndex.cv01</string>
+		<string>whiteDownBackhandIndex.cv02</string>
+		<string>whiteDownBackhandIndex.cv03</string>
+		<string>whiteLeftBackhandIndex</string>
+		<string>whiteLeftBackhandIndex.cv01</string>
+		<string>whiteLeftBackhandIndex.cv02</string>
+		<string>whiteLeftBackhandIndex.cv03</string>
+		<string>whiteRightBackhandIndex</string>
+		<string>whiteRightBackhandIndex.cv01</string>
+		<string>whiteRightBackhandIndex.cv02</string>
+		<string>whiteRightBackhandIndex.cv03</string>
+		<string>s_e_h_r_g_u_t_exclam</string>
+		<string>Y_e_a_h_exclam</string>
+		<string>B_r_a_v_o_exclam_exclam_exclam</string>
 		<string>_part-o-slash</string>
 		<string>_part_Q-tail</string>
 	</array>

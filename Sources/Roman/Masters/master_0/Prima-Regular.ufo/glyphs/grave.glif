@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-	<unicode hex="0060"/>
 	<advance width="390"/>
+	<unicode hex="0060"/>
 	<outline>
 		<component base="gravecomb"/>
 	</outline>

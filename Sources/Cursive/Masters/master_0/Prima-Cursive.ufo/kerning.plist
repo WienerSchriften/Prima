@@ -334,7 +334,11 @@
 		<key>public.kern2.asterisk</key>
 		<integer>-150</integer>
 		<key>public.kern2.h</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
+		<key>public.kern2.i</key>
+		<integer>50</integer>
+		<key>public.kern2.n</key>
+		<integer>50</integer>
 		<key>public.kern2.quoteleft</key>
 		<integer>-30</integer>
 		<key>public.kern2.quoteright</key>
@@ -365,7 +369,7 @@
 		<key>public.kern2.t</key>
 		<integer>50</integer>
 		<key>public.kern2.u</key>
-		<integer>-20</integer>
+		<integer>-50</integer>
 		<key>public.kern2.v</key>
 		<integer>10</integer>
 		<key>public.kern2.x</key>
@@ -384,6 +388,8 @@
 	<dict>
 		<key>public.kern2.j-fina</key>
 		<integer>100</integer>
+		<key>public.kern2.t</key>
+		<integer>170</integer>
 	</dict>
 	<key>public.kern1.hyphen.calt</key>
 	<dict>
@@ -479,6 +485,8 @@
 	</dict>
 	<key>public.kern1.s</key>
 	<dict>
+		<key>public.kern2.h</key>
+		<integer>140</integer>
 		<key>public.kern2.t</key>
 		<integer>90</integer>
 	</dict>

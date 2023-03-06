@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
-	<unicode hex="2019"/>
 	<advance width="382"/>
+	<unicode hex="2019"/>
 	<outline>
 		<contour>
 			<point x="151" y="1144" type="curve" smooth="yes"/>

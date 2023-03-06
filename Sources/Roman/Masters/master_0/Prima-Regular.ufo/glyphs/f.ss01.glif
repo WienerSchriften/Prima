@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f.ss01" format="2">
 	<advance width="626"/>
+	<guideline x="323" y="454" angle="86.1904"/>
+	<guideline x="100" y="870" angle="90"/>
 	<outline>
 		<contour>
 			<point x="351" y="880" type="line"/>
@@ -56,8 +58,6 @@
 			<point x="114" y="835"/>
 		</contour>
 	</outline>
-	<guideline x="323" y="454" angle="86.1904"/>
-	<guideline x="100" y="870" angle="90"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

@@ -1,7 +1,7 @@
-@Uppercase = [ A B C D E E.isol F G G.e G.isol H I J J.e J.isol K K.isol K.swsh L  L.isol L.swsh M N O P Q Q.isol Q.swsh R R.isol R.swsh S T U V W X Y Z Eth Thorn AE IJ IJ.e IJ.isol OE Eng Germandbls Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Cdotaccent Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcommaaccent Gdotaccent Hbar Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Jacute Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scommaaccent Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent Eacute.isol Ebreve.isol Ecaron.isol Ecircumflex.isol Edieresis.isol Edotaccent.isol Egrave.isol Emacron.isol Eogonek.isol Gbreve.e Gcommaaccent.e Gdotaccent.e Gbreve.isol Gcommaaccent.isol Gdotaccent.isol Jacute.isol Jacute.e Kcommaaccent.isol Lacute.isol Lcaron.isol Lcommaaccent.isol Lslash.isol Racute.isol Rcaron.isol Rcommaaccent.isol Kcommaaccent.swsh Lacute.swsh Lcaron.swsh Lcommaaccent.swsh Lslash.swsh Racute.swsh Rcaron.swsh Rcommaaccent.swsh
+@Uppercase = [ A B C D E E.isol F G G.e G.isol H I J J.e J.isol K K.isol K.swsh L M N O P Q Q.isol Q.swsh R R.isol R.swsh S T U V W X Y Z Eth Thorn AE IJ IJ.e IJ.isol OE Eng Germandbls Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Cdotaccent Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcommaaccent Gdotaccent Hbar Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Jacute Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scommaaccent Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent Eacute.isol Ebreve.isol Ecaron.isol Ecircumflex.isol Edieresis.isol Edotaccent.isol Egrave.isol Emacron.isol Eogonek.isol Gbreve.e Gcommaaccent.e Gdotaccent.e Gbreve.isol Gcommaaccent.isol Gdotaccent.isol Jacute.isol Jacute.e Kcommaaccent.isol Racute.isol Rcaron.isol Rcommaaccent.isol Kcommaaccent.swsh Lacute.swsh Lcaron.swsh Lcommaaccent.swsh Lslash.swsh Racute.swsh Rcaron.swsh Rcommaaccent.swsh
  ];
 
-@Lowercase = [ germandbls.salt a a.medi b b.e b.medi b.medi.e c c.medi d d.medi e e.medi e.postb f f.medi g g.e g.medi g.medi.e g.fina h h.medi idotless i jdotless jdotless.e jdotless.fina j j.e j.fina k k.medi k.salt l l.medi m n o o.e o.isol p q q.medi r s s.init s.medi germandbls t t.r u v w y y.e y.fina z eth eth.posto thorn ae ae.salt ij ij.e ij.fina oe eng lslash_lslash aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde cacute ccaron ccedilla cdotaccent dcaron dcroat eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek gbreve gcommaaccent gdotaccent hbar iacute icircumflex idieresis idotaccent igrave imacron iogonek jacute kcommaaccent lacute lcaron lcommaaccent lslash nacute ncaron ncommaaccent ntilde oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde racute rcaron rcommaaccent sacute scaron scedilla scommaaccent tcaron tcedilla tcommaaccent uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring wacute wcircumflex wdieresis wgrave yacute ycircumflex ydieresis ygrave zacute zcaron zdotaccent gbreve.e gcommaaccent.e gdotaccent.e jacute.e oacute.e ocircumflex.e odieresis.e ograve.e ohungarumlaut.e omacron.e oslash.e otilde.e oacute.isol ocircumflex.isol odieresis.isol ograve.isol ohungarumlaut.isol omacron.isol oslash.isol otilde.isol yacute.e ycircumflex.e ydieresis.e ygrave.e gbreve.fina gcommaaccent.fina gdotaccent.fina jacute.fina yacute.fina ycircumflex.fina ydieresis.fina ygrave.fina sacute.init scaron.init scedilla.init scommaaccent.init aacute.medi abreve.medi acircumflex.medi adieresis.medi agrave.medi amacron.medi aogonek.medi aring.medi atilde.medi dcaron.medi dcroat.medi eacute.medi ebreve.medi ecaron.medi ecircumflex.medi edieresis.medi edotaccent.medi egrave.medi emacron.medi eogonek.medi gbreve.medi gcommaaccent.medi gdotaccent.medi kcommaaccent.medi lacute.medi lcaron.medi lcommaaccent.medi sacute.medi scaron.medi scedilla.medi scommaaccent.medi eacute.postb ebreve.postb ecaron.postb ecircumflex.postb edieresis.postb edotaccent.postb egrave.postb emacron.postb eogonek.postb tcaron.r tcedilla.r tcommaaccent.r kcommaaccent.salt gbreve.medi.e gcommaaccent.medi.e gdotaccent.medi.e x.poste adieresis.salt adieresis.medi.salt odieresis.salt udieresis.salt g.isol gbreve.isol gcommaaccent.isol gdotaccent.isol schwa schwa.medi
+@Lowercase = [ germandbls.salt a a.medi b b.e b.medi b.medi.e c c.medi d d.medi e e.medi e.postb f f.medi g g.e g.medi g.medi.e g.fina h h.medi idotless i jdotless jdotless.e jdotless.fina j j.e j.fina k k.medi l l.medi m n o o.e o.isol p q q.medi r s s.init s.medi germandbls t t.r u v w y y.e y.fina z eth eth.posto thorn ae ae.salt ij ij.e ij.fina oe eng lslash_lslash aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde cacute ccaron ccedilla cdotaccent dcaron dcroat eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek gbreve gcommaaccent gdotaccent hbar iacute icircumflex idieresis idotaccent igrave imacron iogonek jacute kcommaaccent lacute lcaron lcommaaccent lslash nacute ncaron ncommaaccent ntilde oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde racute rcaron rcommaaccent sacute scaron scedilla scommaaccent tcaron tcedilla tcommaaccent uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring wacute wcircumflex wdieresis wgrave yacute ycircumflex ydieresis ygrave zacute zcaron zdotaccent gbreve.e gcommaaccent.e gdotaccent.e jacute.e oacute.e ocircumflex.e odieresis.e ograve.e ohungarumlaut.e omacron.e oslash.e otilde.e oacute.isol ocircumflex.isol odieresis.isol ograve.isol ohungarumlaut.isol omacron.isol oslash.isol otilde.isol yacute.e ycircumflex.e ydieresis.e ygrave.e gbreve.fina gcommaaccent.fina gdotaccent.fina jacute.fina yacute.fina ycircumflex.fina ydieresis.fina ygrave.fina sacute.init scaron.init scedilla.init scommaaccent.init aacute.medi abreve.medi acircumflex.medi adieresis.medi agrave.medi amacron.medi aogonek.medi aring.medi atilde.medi dcaron.medi dcroat.medi eacute.medi ebreve.medi ecaron.medi ecircumflex.medi edieresis.medi edotaccent.medi egrave.medi emacron.medi eogonek.medi gbreve.medi gcommaaccent.medi gdotaccent.medi kcommaaccent.medi lacute.medi lcaron.medi lcommaaccent.medi sacute.medi scaron.medi scedilla.medi scommaaccent.medi eacute.postb ebreve.postb ecaron.postb ecircumflex.postb edieresis.postb edotaccent.postb egrave.postb emacron.postb eogonek.postb tcaron.r tcedilla.r tcommaaccent.r gbreve.medi.e gcommaaccent.medi.e gdotaccent.medi.e x.poste adieresis.salt adieresis.medi.salt odieresis.salt udieresis.salt g.isol gbreve.isol gcommaaccent.isol gdotaccent.isol schwa schwa.medi
  ];
 
 @figures = [ zero one two three four five six seven eight nine 
@@ -41,6 +41,12 @@ s.medi sacute.medi scaron.medi scedilla.medi scommaaccent.medi
 schwa.medi ];
 
 @nonjoiner = [ Eogonek
+
+K.swsh Kcommaaccent.swsh
+L.isol Lacute.isol Lcaron.isol Lcommaaccent.isol Lslash.isol
+L.swsh Lacute.swsh Lcaron.swsh Lcommaaccent.swsh Lslash.swsh 
+Q.swsh
+R.swsh  Racute.swsh Rcaron.swsh Rcommaaccent.swsh 
 
 aogonek 
 eogonek eogonek.medi eogonek.postb
@@ -626,6 +632,16 @@ schwa.medi ];
 
 @odieresis-isol = [ odieresis.isol ];
 
+@aoudieresis = [ adieresis
+odieresis
+udieresis
+ ];
+
+@aoudieresis-salt = [ adieresis.salt
+odieresis.salt
+udieresis.salt
+ ];
+
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
@@ -719,7 +735,6 @@ lookup r-salt {
 	sub rcommaaccent by rcommaaccent finial.r ;
 } r-salt ;
 
-
 lookup descender-salt {
 	sub @g by @g-fina ;
 	sub @j by @j-fina ;
@@ -731,17 +746,8 @@ lookup ae-salt {
 } ae-salt ;
 
 lookup dieresis-salt {
-	sub adieresis by adieresis.salt ;
-	sub odieresis by odieresis.salt ;
-	sub udieresis by udieresis.salt ;
+	sub @aoudieresis' by @aoudieresis-salt ;
 } dieresis-salt ;
-
-lookup odieresis-isol {
-	ignore sub odieresis.salt' [ @Uppercase @Lowercase x x.isol ] ;
-	ignore sub [ @Uppercase @Lowercase x x.isol ]  odieresis.salt' ;
-	sub odieresis.salt' by odieresis.isol ;
-} odieresis-isol ;
-
 
 # sub default form of x to dedicated form if preceded by select glyphs
 lookup x-forms {
@@ -812,16 +818,6 @@ lookup locl_latn_3 {
 } locl_latn_3;
 } locl;
 
-feature dlig {
-sub lslash lslash by lslash_lslash ;
-
-lookup wordliga {
-sub Y e a h exclam by Y_e_a_h_exclam ;
-sub B r a v o exclam exclam exclam by B_r_a_v_o_exclam_exclam_exclam ;
-sub s e h r space g u t exclam by s_e_h_r_g_u_t_exclam ;
-} wordliga ;
-} dlig;
-
 feature calt {
 # dedicated case forms of punctuation 
 
@@ -835,8 +831,8 @@ sub @Uppercase @punct-dflt' @Uppercase by @punct-case ;
 # sub default g by g.isol unless preceded or followed by other alphabetic character
 
 lookup g-isol {
-ignore sub @g' [ @Uppercase @Lowercase x x.isol ] ;
-ignore sub [ @Uppercase @Lowercase x x.isol ] @g' ;
+ignore sub @g' [ @Uppercase @Lowercase @k-salt x x.isol ] ;
+ignore sub [ @Uppercase @Lowercase @k-salt x x.isol ] @g' ;
 	sub @g' by @g-isol ;
 } g-isol ;
 
@@ -871,7 +867,7 @@ lookup eth-forms {
 # sub initial forms of lowercase glyphs to medial (connecting) forms if preceded by select glyphs
 lookup medi {
 	ignore sub [ instroke.ascender @nonjoiner @g-fina @j-fina @y-fina ] @init' ;
-	sub [ @CELQZ-right @GJ @GJ-e @MKRU-right @Lowercase ] @init' by @medi ;
+	sub [ @CELQZ-right @GJ @GJ-e @MKRU-right @Lowercase @k-salt ] @init' by @medi ;
 	sub [ @A-right @H-right ] [ @a-init ]' by [ @a-medi ] ;
 	sub @I @l-init' by instroke.ascender @l-medi ;
 	sub periodcentered.loclCAT @l-init' by @l-medi ;
@@ -1159,6 +1155,34 @@ lookup arrow_left {
 } arrow_left ;
 } calt;
 
+feature lnum {
+# automatic
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+} lnum;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+} pnum;
+
 feature tnum {
 # automatic
 sub zero by zero.tf;
@@ -1187,8 +1211,22 @@ sub eight by eight.osf;
 sub nine by nine.osf;
 } onum;
 
-feature lnum {
+feature case {
 # automatic
+sub endash by endash.case;
+sub emdash by emdash.case;
+sub commaaccentcomb by commaaccentcomb.case;
+sub dieresiscomb by dieresiscomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub cedillacomb by cedillacomb.case;
 sub zero.osf by zero;
 sub one.osf by one;
 sub two.osf by two;
@@ -1199,21 +1237,7 @@ sub six.osf by six;
 sub seven.osf by seven;
 sub eight.osf by eight;
 sub nine.osf by nine;
-} lnum;
-
-feature pnum {
-# automatic
-sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-} pnum;
+} case;
 
 feature subs {
 # automatic
@@ -1255,33 +1279,15 @@ feature frac {
 sub one slash two by onehalf;
 } frac;
 
-feature case {
-# automatic
-sub endash by endash.case;
-sub emdash by emdash.case;
-sub commaaccentcomb by commaaccentcomb.case;
-sub dieresiscomb by dieresiscomb.case;
-sub gravecomb by gravecomb.case;
-sub acutecomb by acutecomb.case;
-sub hungarumlautcomb by hungarumlautcomb.case;
-sub circumflexcomb by circumflexcomb.case;
-sub caroncomb by caroncomb.case;
-sub brevecomb by brevecomb.case;
-sub ringcomb by ringcomb.case;
-sub tildecomb by tildecomb.case;
-sub macroncomb by macroncomb.case;
-sub cedillacomb by cedillacomb.case;
-sub zero.osf by zero;
-sub one.osf by one;
-sub two.osf by two;
-sub three.osf by three;
-sub four.osf by four;
-sub five.osf by five;
-sub six.osf by six;
-sub seven.osf by seven;
-sub eight.osf by eight;
-sub nine.osf by nine;
-} case;
+feature dlig {
+sub lslash lslash by lslash_lslash ;
+
+lookup wordliga {
+sub Y e a h exclam by Y_e_a_h_exclam ;
+sub B r a v o exclam exclam exclam by B_r_a_v_o_exclam_exclam_exclam ;
+sub s e h r space g u t exclam by s_e_h_r_g_u_t_exclam ;
+} wordliga ;
+} dlig;
 
 feature cv01 {
 lookup cv01 {
@@ -1318,7 +1324,7 @@ featureNames {
 	name 3 1 0x409 "Unjoined k";
 };
 lookup k-salt ;
-sub @o' by @o-isol ;
+#sub @o' by @o-isol ;
 } ss01;
 
 feature ss02 {
@@ -1366,14 +1372,15 @@ featureNames {
 	name 3 1 0x409 "Unjoined ä ö ü";
 };
 lookup dieresis-salt ;
-lookup odieresis-isol ;
+
+sub @nonjoiner @odieresis-salt' by @odieresis-isol ;
 } ss06;
 
 feature ss07 {
 featureNames {
 	name "Unjoined x";
-	name 3 1 0x409 "Unjoined x";
 	name 3 1 0x407 "Unverbundenes x";
+	name 3 1 0x409 "Unjoined x";
 };
 lookup x-isol ;
 } ss07;
@@ -1381,8 +1388,8 @@ lookup x-isol ;
 feature ss08 {
 featureNames {
 	name "Alternative joined form of x";
-	name "Alternative joined form of x";
 	name 3 1 0x407 "Alternative verbundene Form von x";
+	name 3 1 0x409 "Alternative joined form of x";
 };
 # sub default form of x to dedicated form if preceded by select glyphs
 lookup x-forms ;
@@ -1391,8 +1398,8 @@ lookup x-forms ;
 feature ss09 {
 featureNames {
 	name "Alternative form of ß with descender";
-	name 3 1 0x409 "Alternative form of ß with descender";
 	name 3 1 0x407 "Alternative Form von ß mit Unterlänge";
+	name 3 1 0x409 "Alternative form of ß with descender";
 };
 lookup germandbls-salt ;
 } ss09;
@@ -1418,8 +1425,8 @@ lookup E-isol ;
 feature ss12 {
 featureNames {
 	name "Unjoined G";
-	name 3 1 0x409 "Unjoined G";
 	name 3 1 0x407 "Unverbundenes G";
+	name 3 1 0x409 "Unjoined G";
 };
 lookup G-isol ;
 } ss12;
@@ -1427,8 +1434,8 @@ lookup G-isol ;
 feature ss13 {
 featureNames {
 	name "Unjoined K";
-	name "Unjoined K";
 	name 3 1 0x407 "Unverbundenes K";
+	name 3 1 0x409 "Unjoined K";
 };
 lookup K-isol ;
 } ss13;
@@ -1436,8 +1443,8 @@ lookup K-isol ;
 feature ss14 {
 featureNames {
 	name "Unjoined L";
+	name 3 1 0x407 "Unverbundenes L";
 	name 3 1 0x409 "Unjoined L";
-	name 3 1 0x407 "Unnverbundenes L";
 };
 lookup L-isol ;
 } ss14;
@@ -1445,8 +1452,8 @@ lookup L-isol ;
 feature ss15 {
 featureNames {
 	name "Unjoined R";
-	name 3 1 0x409 "Unjoined R";
 	name 3 1 0x407 "Unverbundenes R";
+	name 3 1 0x409 "Unjoined R";
 };
 lookup R-isol ;
 } ss15;
@@ -1454,8 +1461,8 @@ lookup R-isol ;
 feature ss16 {
 featureNames {
 	name "Unjoined Q";
-	name 3 1 0x409 "Unjoined Q";
 	name 3 1 0x407 "Unverbundenes Q";
+	name 3 1 0x409 "Unjoined Q";
 };
 lookup Q-isol ;
 } ss16;
@@ -1463,8 +1470,8 @@ lookup Q-isol ;
 feature ss17 {
 featureNames {
 	name "Unjoined E G K L Q R";
-	name 3 1 0x409 "Unjoined E G K L Q R";
 	name 3 1 0x407 "Unverbundene E G K L Q R";
+	name 3 1 0x409 "Unjoined E G K L Q R";
 };
 lookup E-isol;
 lookup G-isol;
@@ -1477,8 +1484,8 @@ lookup R-isol;
 feature ss18 {
 featureNames {
 	name "variant 1 of pointing hands";
-	name 3 1 0x409 "variant 1 of pointing hands";
 	name 3 1 0x407 "Variante 1 der deutenden Hände";
+	name 3 1 0x409 "variant 1 of pointing hands";
 };
 lookup cv01 ;
 } ss18;
@@ -1486,8 +1493,8 @@ lookup cv01 ;
 feature ss19 {
 featureNames {
 	name "variant 2 of pointing hands";
-	name 3 1 0x409 "variant 2 of pointing hands";
 	name 3 1 0x407 "Variante 2 der deutenden Hände";
+	name 3 1 0x409 "variant 2 of pointing hands";
 };
 lookup cv02 ;
 } ss19;
@@ -1495,8 +1502,8 @@ lookup cv02 ;
 feature ss20 {
 featureNames {
 	name "variant 3 of pointing hands";
-	name 3 1 0x409 "variant 3 of pointing hands";
 	name 3 1 0x407 "Variante 3 der deutenden Hände";
+	name 3 1 0x409 "variant 3 of pointing hands";
 };
 lookup cv03 ;
 } ss20;
@@ -1504,6 +1511,10 @@ lookup cv03 ;
 feature swsh {
 lookup uc-swash ;
 } swsh;
+
+feature ornm {
+sub bullet from [ whiteHeart heavyBlackHeart heartsuitwhite heartsuitblack pencil lowerRightPencil upperRightPencil s_e_h_r_g_u_t_exclam B_r_a_v_o_exclam_exclam_exclam Y_e_a_h_exclam whiteLeftBackhandIndex whiteLeftBackhandIndex.cv01 whiteLeftBackhandIndex.cv02 whiteLeftBackhandIndex.cv03 whiteRightBackhandIndex whiteRightBackhandIndex.cv01 whiteRightBackhandIndex.cv02 whiteRightBackhandIndex.cv03  ] ;
+} ornm;
 
 feature kern {
 lookup kern-calt {

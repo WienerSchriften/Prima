@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb.case" format="2">
 	<advance width="467"/>
+	<anchor x="216" y="910" name="_top"/>
+	<anchor x="252" y="1319" name="top"/>
 	<outline>
 		<contour>
 			<point x="220" y="970" type="curve" smooth="yes"/>
@@ -31,8 +33,6 @@
 			<point x="297" y="1040"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="216" y="910"/>
-	<anchor name="top" x="252" y="1319"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

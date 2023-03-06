@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteHeart" format="2">
-	<unicode hex="1F90D"/>
 	<advance width="2380"/>
+	<unicode hex="1F90D"/>
 	<outline>
 		<contour>
 			<point x="1190" y="-664" type="curve"/>

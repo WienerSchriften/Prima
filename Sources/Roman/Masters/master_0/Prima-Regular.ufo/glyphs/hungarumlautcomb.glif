@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb" format="2">
-	<unicode hex="030B"/>
 	<advance width="548"/>
+	<unicode hex="030B"/>
+	<anchor x="160" y="910" name="_top"/>
+	<anchor x="328" y="1455" name="top"/>
 	<outline>
 		<contour>
 			<point x="295" y="1086" type="curve" smooth="yes"/>
@@ -50,8 +52,6 @@
 			<point x="62" y="1085"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="160" y="910"/>
-	<anchor name="top" x="328" y="1455"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

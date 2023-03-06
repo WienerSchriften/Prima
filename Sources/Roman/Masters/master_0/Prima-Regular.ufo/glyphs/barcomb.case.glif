@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="barcomb.case" format="2">
 	<advance width="854"/>
+	<anchor x="295" y="829" name="_center"/>
 	<outline>
 		<contour>
 			<point x="100" y="791" type="curve" smooth="yes"/>
@@ -19,7 +20,6 @@
 			<point x="74" y="791"/>
 		</contour>
 	</outline>
-	<anchor name="_center" x="295" y="829"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

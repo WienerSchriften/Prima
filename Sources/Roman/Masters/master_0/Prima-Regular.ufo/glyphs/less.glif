@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="2">
-	<unicode hex="003C"/>
 	<advance width="1200"/>
+	<unicode hex="003C"/>
 	<outline>
 		<contour>
 			<point x="922" y="318" type="curve" smooth="yes"/>

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="2">
-	<unicode hex="0132"/>
 	<advance width="1403"/>
+	<unicode hex="0132"/>
+	<anchor x="191" y="0" name="bottom"/>
+	<anchor x="157" y="0" name="ogonek"/>
+	<anchor x="1202" y="1600" name="top"/>
+	<anchor x="219" y="1600" name="topleft"/>
 	<outline>
 		<contour>
 			<point x="797" y="-12" type="curve" smooth="yes"/>
@@ -65,10 +69,6 @@
 			<point x="165" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="191" y="0"/>
-	<anchor name="ogonek" x="157" y="0"/>
-	<anchor name="top" x="1202" y="1600"/>
-	<anchor name="topleft" x="219" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

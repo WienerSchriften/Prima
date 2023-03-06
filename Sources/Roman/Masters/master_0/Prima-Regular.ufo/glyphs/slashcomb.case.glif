@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashcomb.case" format="2">
 	<advance width="785"/>
+	<anchor x="373" y="823" name="_center"/>
 	<outline>
 		<contour>
 			<point x="137" y="546" type="curve" smooth="yes"/>
@@ -25,7 +26,6 @@
 			<point x="119" y="546"/>
 		</contour>
 	</outline>
-	<anchor name="_center" x="373" y="823"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

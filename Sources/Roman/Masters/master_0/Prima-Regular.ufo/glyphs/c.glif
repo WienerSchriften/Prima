@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="2">
-	<unicode hex="0063"/>
 	<advance width="851"/>
+	<unicode hex="0063"/>
+	<anchor x="460" y="0" name="bottom"/>
+	<anchor x="528" y="910" name="top"/>
 	<outline>
 		<contour>
 			<point x="458" y="-12" type="curve" smooth="yes"/>
@@ -48,8 +50,6 @@
 			<point x="254" y="-12"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="460" y="0"/>
-	<anchor name="top" x="528" y="910"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

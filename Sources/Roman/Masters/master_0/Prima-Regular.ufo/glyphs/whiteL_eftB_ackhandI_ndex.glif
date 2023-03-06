@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteLeftBackhandIndex" format="2">
-	<unicode hex="1F448"/>
 	<advance width="5389"/>
+	<unicode hex="1F448"/>
+	<note>
+		u0041
+	</note>
 	<outline>
 		<contour>
 			<point x="3417" y="-572" type="curve" smooth="yes"/>
@@ -354,7 +357,4 @@
 			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
-	<note>
-		u0041
-	</note>
 </glyph>

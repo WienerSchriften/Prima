@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
-	<unicode hex="0024"/>
 	<advance width="1200"/>
+	<unicode hex="0024"/>
+	<anchor x="638" y="0" name="bottom"/>
+	<anchor x="683" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="490" y="-12" type="curve" smooth="yes"/>
@@ -84,8 +86,6 @@
 			<point x="435" y="-206"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="638" y="0"/>
-	<anchor name="top" x="683" y="1600"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

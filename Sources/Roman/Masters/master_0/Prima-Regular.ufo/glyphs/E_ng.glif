@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eng" format="2">
-	<unicode hex="014A"/>
 	<advance width="1355"/>
+	<unicode hex="014A"/>
+	<anchor x="1980" y="717" name="center"/>
+	<anchor x="2023" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="789" y="-472" type="curve" smooth="yes"/>
@@ -62,8 +64,6 @@
 			<point x="712" y="-472"/>
 		</contour>
 	</outline>
-	<anchor name="center" x="1980" y="717"/>
-	<anchor name="top" x="2023" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

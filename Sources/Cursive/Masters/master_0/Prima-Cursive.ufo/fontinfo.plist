@@ -109,6 +109,8 @@
 	<integer>510</integer>
 	<key>openTypeOS2StrikeoutSize</key>
 	<integer>80</integer>
+	<key>openTypeOS2Type</key>
+	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2000</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -162,7 +164,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>100</integer>
+	<integer>101</integer>
 	<key>xHeight</key>
 	<integer>910</integer>
 </dict>
