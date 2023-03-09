@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb.case" format="2">
 	<advance width="549"/>
-	<anchor x="195" y="910" name="_top"/>
-	<anchor x="276" y="1342" name="top"/>
 	<outline>
 		<contour>
 			<point x="104" y="1154" type="curve" smooth="yes"/>
@@ -33,6 +31,8 @@
 			<point x="379" y="1154"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="195" y="910"/>
+	<anchor name="top" x="276" y="1342"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

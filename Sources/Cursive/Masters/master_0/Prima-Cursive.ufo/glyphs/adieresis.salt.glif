@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis.salt" format="2">
 	<advance width="1156"/>
-	<anchor x="275" y="0" name="bottom"/>
-	<anchor x="694" y="0" name="ogonek"/>
-	<anchor x="540" y="910" name="top"/>
 	<outline>
 		<contour>
 			<point x="774" y="891" type="curve" smooth="yes"/>
@@ -102,6 +99,9 @@
 			<point x="754" y="1154"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="275" y="0"/>
+	<anchor name="ogonek" x="694" y="0"/>
+	<anchor name="top" x="540" y="910"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

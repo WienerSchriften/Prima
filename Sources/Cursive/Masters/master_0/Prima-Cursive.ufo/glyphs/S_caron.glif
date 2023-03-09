@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-	<advance width="1085"/>
 	<unicode hex="0160"/>
+	<advance width="1085"/>
 	<outline>
 		<component base="S"/>
 		<component base="caroncomb.case" xOffset="495" yOffset="640"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scommaaccent" format="2">
-	<advance width="1085"/>
 	<unicode hex="0218"/>
+	<advance width="1085"/>
 	<outline>
 		<component base="S"/>
 		<component base="commaaccentcomb.case" xOffset="154"/>

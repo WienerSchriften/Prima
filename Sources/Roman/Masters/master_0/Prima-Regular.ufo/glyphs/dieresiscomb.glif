@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb" format="2">
-	<advance width="588"/>
 	<unicode hex="0308"/>
-	<anchor x="273" y="910" name="_top"/>
-	<anchor x="301" y="1342" name="top"/>
+	<advance width="588"/>
 	<outline>
 		<component base="dotaccentcomb"/>
 		<component base="dotaccentcomb" xOffset="315"/>
 	</outline>
+	<anchor name="_top" x="273" y="910"/>
+	<anchor name="top" x="301" y="1342"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

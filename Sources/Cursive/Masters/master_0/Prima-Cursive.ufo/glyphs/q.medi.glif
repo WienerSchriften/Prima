@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q.medi" format="2">
 	<advance width="908"/>
-	<anchor x="42" y="447" name="#entry"/>
 	<outline>
 		<contour>
 			<point x="774" y="891" type="curve" smooth="yes"/>
@@ -62,6 +61,7 @@
 			<point x="698" y="442"/>
 		</contour>
 	</outline>
+	<anchor name="#entry" x="42" y="447"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x.isol" format="2">
 	<advance width="946"/>
-	<guideline x="126" y="428" angle="225.1329"/>
 	<outline>
 		<component base="x" xOffset="-78"/>
 	</outline>
+	<guideline x="126" y="428" angle="225.1329"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

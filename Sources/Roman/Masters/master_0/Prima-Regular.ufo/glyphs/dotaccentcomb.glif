@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="2">
-	<advance width="273"/>
 	<unicode hex="0307"/>
-	<anchor x="110" y="910" name="_top"/>
-	<anchor x="146" y="1322" name="top"/>
+	<advance width="273"/>
 	<outline>
 		<contour>
 			<point x="128" y="1154" type="curve" smooth="yes"/>
@@ -20,6 +18,8 @@
 			<point x="86" y="1154"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="110" y="910"/>
+	<anchor name="top" x="146" y="1322"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

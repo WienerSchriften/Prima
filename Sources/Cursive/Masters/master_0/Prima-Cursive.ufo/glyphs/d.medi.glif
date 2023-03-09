@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d.medi" format="2">
 	<advance width="785"/>
-	<anchor x="275" y="0" name="bottom"/>
-	<anchor x="858" y="1208" name="center"/>
-	<anchor x="640" y="0" name="ogonek"/>
-	<anchor x="515" y="910" name="top"/>
-	<anchor x="1042" y="1600" name="topright"/>
 	<outline>
 		<contour>
 			<point x="958" y="1581" type="curve" smooth="yes"/>
@@ -70,6 +65,11 @@
 			<point x="965" y="1609"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="275" y="0"/>
+	<anchor name="center" x="858" y="1208"/>
+	<anchor name="ogonek" x="640" y="0"/>
+	<anchor name="top" x="515" y="910"/>
+	<anchor name="topright" x="1042" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

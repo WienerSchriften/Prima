@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="schwa" format="2">
-	<advance width="878"/>
 	<unicode hex="0259"/>
-	<anchor x="411" y="923" name="bottom"/>
-	<anchor x="292" y="923" name="ogonek"/>
-	<anchor x="433" y="13" name="top"/>
+	<advance width="878"/>
 	<outline>
 		<contour>
 			<point x="455" y="935" type="curve" smooth="yes"/>
@@ -54,6 +51,9 @@
 			<point x="649" y="935"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="411" y="923"/>
+	<anchor name="ogonek" x="292" y="923"/>
+	<anchor name="top" x="433" y="13"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g.isol" format="2">
 	<advance width="1019"/>
-	<anchor x="231" y="0" name="bottom"/>
-	<anchor x="554" y="910" name="top"/>
 	<outline>
 		<contour>
 			<point x="775" y="891" type="curve" smooth="yes"/>
@@ -71,6 +69,8 @@
 			<point x="146" y="113"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="231" y="0"/>
+	<anchor name="top" x="554" y="910"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

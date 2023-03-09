@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="2">
-	<advance width="1148"/>
 	<unicode hex="0158"/>
+	<advance width="1148"/>
 	<outline>
 		<component base="R"/>
 		<component base="caroncomb.case" xOffset="376" yOffset="690"/>

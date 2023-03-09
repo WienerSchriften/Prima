@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
-	<advance width="314"/>
 	<unicode hex="0326"/>
-	<anchor x="231" y="0" name="_bottom"/>
-	<anchor x="146" y="-497" name="bottom"/>
+	<advance width="314"/>
 	<outline>
 		<contour>
 			<point x="92" y="-497"/>
@@ -29,6 +27,8 @@
 			<point x="75" y="-497" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="231" y="0"/>
+	<anchor name="bottom" x="146" y="-497"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

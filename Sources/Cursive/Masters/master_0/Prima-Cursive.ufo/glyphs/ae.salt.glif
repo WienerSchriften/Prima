@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae.salt" format="2">
 	<advance width="818"/>
-	<anchor x="852" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="908" y="777" type="curve" smooth="yes"/>
@@ -55,6 +54,7 @@
 			<point x="908" y="836"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="852" y="0"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

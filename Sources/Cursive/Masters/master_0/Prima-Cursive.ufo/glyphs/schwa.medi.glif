@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="schwa.medi" format="2">
 	<advance width="843"/>
-	<anchor x="369" y="923" name="bottom"/>
-	<anchor x="250" y="923" name="ogonek"/>
-	<anchor x="328" y="13" name="top"/>
 	<outline>
 		<contour>
 			<point x="484" y="857" type="curve" smooth="yes"/>
@@ -47,6 +44,9 @@
 			<point x="476" y="857"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="369" y="923"/>
+	<anchor name="ogonek" x="250" y="923"/>
+	<anchor name="top" x="328" y="13"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

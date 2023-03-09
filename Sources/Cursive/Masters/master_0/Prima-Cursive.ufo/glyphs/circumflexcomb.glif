@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb" format="2">
-	<advance width="555"/>
 	<unicode hex="0302"/>
-	<anchor x="229" y="910" name="_top"/>
-	<anchor x="349" y="1417" name="top"/>
+	<advance width="555"/>
 	<outline>
 		<contour>
 			<point x="73" y="1085" type="curve" smooth="yes"/>
@@ -34,6 +32,8 @@
 			<point x="60" y="1085"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="229" y="910"/>
+	<anchor name="top" x="349" y="1417"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

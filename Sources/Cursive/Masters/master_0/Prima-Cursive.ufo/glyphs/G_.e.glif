@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G.e" format="2">
 	<advance width="1145"/>
-	<anchor x="404" y="-5" name="bottom"/>
-	<anchor x="930" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="997" y="346" type="curve"/>
@@ -74,6 +72,8 @@
 			<point x="851" y="116"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="404" y="-5"/>
+	<anchor name="top" x="930" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

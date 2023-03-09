@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-	<advance width="1294"/>
 	<unicode hex="0126"/>
+	<advance width="1294"/>
 	<outline>
 		<component base="H"/>
 		<component base="finial.H" xOffset="1400" yOffset="421"/>

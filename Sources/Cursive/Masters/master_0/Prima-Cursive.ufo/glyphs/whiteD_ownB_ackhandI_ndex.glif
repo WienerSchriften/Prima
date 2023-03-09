@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteDownBackhandIndex" format="2">
-	<advance width="2532"/>
 	<unicode hex="1F447"/>
+	<advance width="2532"/>
 	<outline>
 		<contour>
 			<point x="188" y="1028" type="line" smooth="yes"/>

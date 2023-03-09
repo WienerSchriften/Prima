@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb" format="2">
-	<advance width="350"/>
 	<unicode hex="0327"/>
-	<anchor x="176" y="0" name="_bottom"/>
-	<anchor x="114" y="-491" name="bottom"/>
+	<advance width="350"/>
 	<outline>
 		<contour>
 			<point x="79" y="-491" type="curve" smooth="yes"/>
@@ -42,6 +40,8 @@
 			<point x="59" y="-491"/>
 		</contour>
 	</outline>
+	<anchor name="_bottom" x="176" y="0"/>
+	<anchor name="bottom" x="114" y="-491"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

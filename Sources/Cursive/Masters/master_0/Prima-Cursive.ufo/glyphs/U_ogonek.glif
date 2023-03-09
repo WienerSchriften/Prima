@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="2">
-	<advance width="1493"/>
 	<unicode hex="0172"/>
-	<anchor x="510" y="0" name="bottom"/>
-	<anchor x="931" y="1600" name="top"/>
-	<anchor x="1595" y="1434" name="topright"/>
+	<advance width="1493"/>
 	<outline>
 		<contour>
 			<point x="972" y="-12" type="curve" smooth="yes"/>
@@ -117,6 +114,9 @@
 			<point x="913" y="-12"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="510" y="0"/>
+	<anchor name="top" x="931" y="1600"/>
+	<anchor name="topright" x="1595" y="1434"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="instroke.ascender" format="2">
 	<advance width="113"/>
-	<guideline x="534" y="541" angle="224.0954"/>
 	<outline>
 		<contour>
 			<point x="251" y="625"/>
@@ -30,6 +29,7 @@
 			<point x="144" y="511" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<guideline x="534" y="541" angle="224.0954"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

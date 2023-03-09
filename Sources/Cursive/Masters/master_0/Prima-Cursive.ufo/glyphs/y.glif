@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="2">
-	<advance width="804"/>
 	<unicode hex="0079"/>
-	<anchor x="570" y="910" name="top"/>
-	<anchor x="880" y="910" name="topright"/>
+	<advance width="804"/>
 	<outline>
 		<contour>
 			<point x="269" y="878" type="curve" smooth="yes"/>
@@ -82,6 +80,8 @@
 			<point x="158" y="-585"/>
 		</contour>
 	</outline>
+	<anchor name="top" x="570" y="910"/>
+	<anchor name="topright" x="880" y="910"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

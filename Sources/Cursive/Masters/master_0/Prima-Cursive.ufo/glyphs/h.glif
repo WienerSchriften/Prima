@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
-	<advance width="804"/>
 	<unicode hex="0068"/>
-	<anchor x="429" y="1208" name="center"/>
+	<advance width="804"/>
 	<outline>
 		<contour>
 			<point x="526" y="1554" type="line" smooth="yes"/>
@@ -66,6 +65,7 @@
 			<point x="227" y="455" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="center" x="429" y="1208"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

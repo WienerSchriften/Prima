@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.case" format="2">
 	<advance width="641"/>
-	<anchor x="206" y="960" name="_top"/>
-	<anchor x="313" y="1377" name="top"/>
 	<outline>
 		<contour>
 			<point x="585" y="1361" type="curve" smooth="yes"/>
@@ -33,6 +31,8 @@
 			<point x="595" y="1361"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="206" y="960"/>
+	<anchor name="top" x="313" y="1377"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R.isol" format="2">
 	<advance width="1204"/>
-	<anchor x="480" y="0" name="bottom"/>
-	<anchor x="759" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="387" y="1522" type="curve" smooth="yes"/>
@@ -72,6 +70,8 @@
 			<point x="677" y="395"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="480" y="0"/>
+	<anchor name="top" x="759" y="1600"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b.e" format="2">
 	<advance width="995"/>
-	<anchor x="974" y="448" name="#exit"/>
 	<outline>
 		<contour>
 			<point x="170" y="281"/>
@@ -47,6 +46,7 @@
 			<point x="170" y="203" type="curve" smooth="yes"/>
 		</contour>
 	</outline>
+	<anchor name="#exit" x="974" y="448"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-	<advance width="758"/>
 	<unicode hex="2021"/>
-	<anchor x="407" y="1148" name="_center"/>
+	<advance width="758"/>
 	<outline>
 		<contour>
 			<point x="236" y="396" type="curve" smooth="yes"/>
@@ -99,6 +98,7 @@
 			<point x="220" y="396"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="407" y="1148"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

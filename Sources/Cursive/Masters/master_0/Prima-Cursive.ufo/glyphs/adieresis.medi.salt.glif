@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis.medi.salt" format="2">
 	<advance width="1116"/>
-	<anchor x="275" y="0" name="bottom"/>
-	<anchor x="694" y="0" name="ogonek"/>
-	<anchor x="525" y="910" name="top"/>
 	<outline>
 		<contour>
 			<point x="774" y="891" type="curve" smooth="yes"/>
@@ -107,6 +104,9 @@
 			<point x="739" y="1154"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="275" y="0"/>
+	<anchor name="ogonek" x="694" y="0"/>
+	<anchor name="top" x="525" y="910"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

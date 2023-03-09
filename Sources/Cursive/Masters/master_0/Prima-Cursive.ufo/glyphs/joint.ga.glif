@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="joint.ga" format="2">
 	<advance width="343"/>
-	<note>
-		joint.ga
-	</note>
 	<outline>
 		<contour>
 			<point x="-188" y="-54" type="curve" smooth="yes"/>
@@ -38,4 +35,7 @@
 			<string>0.65,0.48,0.2,1</string>
 		</dict>
 	</lib>
+	<note>
+		joint.ga
+	</note>
 </glyph>

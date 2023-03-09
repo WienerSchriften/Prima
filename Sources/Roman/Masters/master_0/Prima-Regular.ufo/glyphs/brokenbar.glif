@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-	<advance width="975"/>
 	<unicode hex="00A6"/>
+	<advance width="975"/>
 	<outline>
 		<contour>
 			<point x="482" y="1009" type="curve" smooth="yes"/>

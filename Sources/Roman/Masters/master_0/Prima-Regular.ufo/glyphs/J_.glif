@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-	<advance width="896"/>
 	<unicode hex="004A"/>
-	<anchor x="652" y="717" name="center"/>
-	<anchor x="695" y="1600" name="top"/>
+	<advance width="896"/>
 	<outline>
 		<contour>
 			<point x="267" y="-504" type="curve" smooth="yes"/>
@@ -45,6 +43,8 @@
 			<point x="142" y="-504"/>
 		</contour>
 	</outline>
+	<anchor name="center" x="652" y="717"/>
+	<anchor name="top" x="695" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

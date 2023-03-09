@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="2">
-	<advance width="1200"/>
 	<unicode hex="00F7"/>
+	<advance width="1200"/>
 	<outline>
 		<contour>
 			<point x="216" y="748" type="curve" smooth="yes"/>

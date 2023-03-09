@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-	<advance width="1183"/>
 	<unicode hex="005A"/>
-	<anchor x="494" y="0" name="bottom"/>
-	<anchor x="630" y="820" name="center"/>
-	<anchor x="701" y="1600" name="top"/>
-	<anchor x="1196" y="1600" name="topright"/>
+	<advance width="1183"/>
 	<outline>
 		<contour>
 			<point x="122" y="0" type="curve" smooth="yes"/>
@@ -40,6 +36,10 @@
 			<point x="79" y="0"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="494" y="0"/>
+	<anchor name="center" x="630" y="820"/>
+	<anchor name="top" x="701" y="1600"/>
+	<anchor name="topright" x="1196" y="1600"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

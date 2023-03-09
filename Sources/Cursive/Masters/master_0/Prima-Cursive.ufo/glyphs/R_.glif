@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-	<advance width="984"/>
 	<unicode hex="0052"/>
-	<anchor x="500" y="0" name="bottom"/>
-	<anchor x="759" y="1600" name="top"/>
+	<advance width="984"/>
 	<outline>
 		<contour>
 			<point x="387" y="1522" type="curve" smooth="yes"/>
@@ -73,6 +71,8 @@
 			<point x="399" y="812"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="500" y="0"/>
+	<anchor name="top" x="759" y="1600"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

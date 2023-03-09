@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o.e" format="2">
 	<advance width="970"/>
-	<anchor x="262" y="0" name="bottom"/>
-	<anchor x="410" y="472" name="center"/>
-	<anchor x="272" y="0" name="ogonek"/>
-	<anchor x="545" y="910" name="top"/>
-	<anchor x="798" y="910" name="topright"/>
 	<outline>
 		<contour>
 			<point x="546" y="899" type="curve" smooth="yes"/>
@@ -49,6 +44,11 @@
 			<point x="546" y="917"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="262" y="0"/>
+	<anchor name="center" x="410" y="472"/>
+	<anchor name="ogonek" x="272" y="0"/>
+	<anchor name="top" x="545" y="910"/>
+	<anchor name="topright" x="798" y="910"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

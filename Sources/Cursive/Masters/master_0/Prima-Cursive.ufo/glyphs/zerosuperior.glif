@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zerosuperior" format="2">
-	<advance width="1147"/>
 	<unicode hex="2070"/>
+	<advance width="1147"/>
 	<outline>
 		<component base="zero.osf" yOffset="538"/>
 	</outline>

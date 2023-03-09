@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.case" format="2">
 	<advance width="586"/>
-	<anchor x="133" y="970" name="_top"/>
-	<anchor x="351" y="1372" name="top"/>
 	<outline>
 		<contour>
 			<point x="75" y="1085" type="curve" smooth="yes"/>
@@ -28,6 +26,8 @@
 			<point x="59" y="1085"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="133" y="970"/>
+	<anchor name="top" x="351" y="1372"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

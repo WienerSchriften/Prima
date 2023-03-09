@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gClef-musical" format="2">
-	<advance width="1249"/>
 	<unicode hex="1D11E"/>
+	<advance width="1249"/>
 	<outline>
 		<contour>
 			<point x="487" y="-685" type="curve" smooth="yes"/>

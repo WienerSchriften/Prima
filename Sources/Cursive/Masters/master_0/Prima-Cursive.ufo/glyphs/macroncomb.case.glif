@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb.case" format="2">
 	<advance width="656"/>
-	<anchor x="248" y="910" name="_top"/>
-	<anchor x="324" y="1184" name="top"/>
 	<outline>
 		<contour>
 			<point x="293" y="1107" type="curve" smooth="yes"/>
@@ -37,6 +35,8 @@
 			<point x="213" y="1107"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="248" y="910"/>
+	<anchor name="top" x="324" y="1184"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

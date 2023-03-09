@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jdotless.fina" format="2">
 	<advance width="554"/>
-	<anchor x="-300" y="-690" name="bottom"/>
-	<anchor x="317" y="910" name="top"/>
 	<outline>
 		<contour>
 			<point x="273" y="894" type="curve" smooth="yes"/>
@@ -39,6 +37,8 @@
 			<point x="280" y="922"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="-300" y="-690"/>
+	<anchor name="top" x="317" y="910"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

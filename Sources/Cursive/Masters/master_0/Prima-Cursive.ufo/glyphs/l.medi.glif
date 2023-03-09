@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.medi" format="2">
 	<advance width="306"/>
-	<anchor x="144" y="0" name="bottom"/>
-	<anchor x="550" y="1545" name="top"/>
-	<anchor x="626" y="1600" name="topright"/>
 	<outline>
 		<contour>
 			<point x="80" y="130" type="curve" smooth="yes"/>
@@ -55,6 +52,9 @@
 			<point x="327" y="958" type="curve"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="144" y="0"/>
+	<anchor name="top" x="550" y="1545"/>
+	<anchor name="topright" x="626" y="1600"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

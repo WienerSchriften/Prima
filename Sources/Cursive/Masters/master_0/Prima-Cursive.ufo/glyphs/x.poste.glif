@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x.poste" format="2">
-	<advance width="0"/>
-	<guideline x="-501" y="428" angle="225.1329"/>
 	<outline>
 		<contour>
 			<point x="-372" y="445" type="curve" smooth="yes"/>
@@ -33,6 +31,7 @@
 			<point x="-214" y="112"/>
 		</contour>
 	</outline>
+	<guideline x="-501" y="428" angle="225.1329"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

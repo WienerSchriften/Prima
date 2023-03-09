@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteLeftBackhandIndex.cv01" format="2">
 	<advance width="5300"/>
-	<note>
-		u0042
-	</note>
 	<outline>
 		<contour>
 			<point x="3713" y="200" type="curve" smooth="yes"/>
@@ -444,4 +441,7 @@
 			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
+	<note>
+		u0042
+	</note>
 </glyph>

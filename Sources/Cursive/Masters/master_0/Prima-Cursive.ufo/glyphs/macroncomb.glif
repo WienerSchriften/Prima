@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb" format="2">
-	<advance width="586"/>
 	<unicode hex="0304"/>
-	<guideline x="-877" y="1110" angle="0"/>
-	<anchor x="277" y="1221" name="_center"/>
-	<anchor x="213" y="910" name="_top"/>
-	<anchor x="289" y="1257" name="top"/>
+	<advance width="586"/>
 	<outline>
 		<contour>
 			<point x="263" y="1183" type="curve" smooth="yes"/>
@@ -34,6 +30,10 @@
 			<point x="205" y="1183"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="277" y="1221"/>
+	<anchor name="_top" x="213" y="910"/>
+	<anchor name="top" x="289" y="1257"/>
+	<guideline x="-877" y="1110" angle="0"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

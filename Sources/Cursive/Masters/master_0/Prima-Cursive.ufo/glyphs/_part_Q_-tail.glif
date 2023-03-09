@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_part_Q-tail" format="2">
 	<advance width="1182"/>
-	<anchor x="890" y="10" name="_ogonek"/>
 	<outline>
 		<contour>
 			<point x="1252" y="-380" type="curve" smooth="yes"/>
@@ -36,4 +35,5 @@
 			<point x="1018" y="-380"/>
 		</contour>
 	</outline>
+	<anchor name="_ogonek" x="890" y="10"/>
 </glyph>

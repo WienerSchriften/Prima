@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.case" format="2">
 	<advance width="746"/>
-	<anchor x="303" y="970" name="_top"/>
-	<anchor x="392" y="1329" name="top"/>
 	<outline>
 		<contour>
 			<point x="74" y="1091" type="curve" smooth="yes"/>
@@ -49,6 +47,8 @@
 			<point x="63" y="1091"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="303" y="970"/>
+	<anchor name="top" x="392" y="1329"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

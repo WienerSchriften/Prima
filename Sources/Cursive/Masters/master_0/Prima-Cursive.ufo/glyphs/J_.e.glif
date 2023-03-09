@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J.e" format="2">
 	<advance width="509"/>
-	<anchor x="261" y="0" name="bottom"/>
-	<anchor x="459" y="717" name="center"/>
-	<anchor x="716" y="1600" name="top"/>
 	<outline>
 		<contour>
 			<point x="718" y="1535" type="curve"/>
@@ -64,6 +61,9 @@
 			<point x="643" y="1521"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="261" y="0"/>
+	<anchor name="center" x="459" y="717"/>
+	<anchor name="top" x="716" y="1600"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

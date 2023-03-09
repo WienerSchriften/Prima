@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="2">
-	<advance width="548"/>
 	<unicode hex="02D8"/>
+	<advance width="548"/>
 	<outline>
 		<component base="brevecomb"/>
 	</outline>

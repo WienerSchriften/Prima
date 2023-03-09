@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="2">
-	<advance width="916"/>
 	<unicode hex="0079"/>
-	<anchor x="495" y="910" name="top"/>
-	<anchor x="882" y="910" name="topright"/>
+	<advance width="916"/>
 	<outline>
 		<contour>
 			<point x="125" y="-670" type="curve" smooth="yes"/>
@@ -46,6 +44,8 @@
 			<point x="97" y="-670"/>
 		</contour>
 	</outline>
+	<anchor name="top" x="495" y="910"/>
+	<anchor name="topright" x="882" y="910"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-	<advance width="461"/>
 	<unicode hex="0069"/>
-	<anchor x="169" y="0" name="bottom"/>
+	<advance width="461"/>
 	<outline>
 		<component base="idotless"/>
 		<component base="dotaccentcomb" xOffset="148"/>
 	</outline>
+	<anchor name="bottom" x="169" y="0"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pencil" format="2">
-	<advance width="3043"/>
 	<unicode hex="270F"/>
+	<advance width="3043"/>
 	<outline>
 		<contour>
 			<point x="2320" y="699" type="line"/>

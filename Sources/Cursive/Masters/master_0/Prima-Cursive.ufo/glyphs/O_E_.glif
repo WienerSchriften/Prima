@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="2">
-	<advance width="1878"/>
 	<unicode hex="0152"/>
-	<anchor x="980" y="10" name="ogonek"/>
+	<advance width="1878"/>
 	<outline>
 		<contour>
 			<point x="1041" y="70" type="line"/>
@@ -88,6 +87,7 @@
 			<point x="220" y="223"/>
 		</contour>
 	</outline>
+	<anchor name="ogonek" x="980" y="10"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
-	<advance width="408"/>
 	<unicode hex="0300"/>
-	<anchor x="222" y="910" name="_top"/>
-	<anchor x="232" y="1440" name="top"/>
+	<advance width="408"/>
 	<outline>
 		<contour>
 			<point x="338" y="1085" type="curve" smooth="yes"/>
@@ -29,6 +27,8 @@
 			<point x="315" y="1085"/>
 		</contour>
 	</outline>
+	<anchor name="_top" x="222" y="910"/>
+	<anchor name="top" x="232" y="1440"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

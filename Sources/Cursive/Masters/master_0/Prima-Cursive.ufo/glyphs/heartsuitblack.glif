@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heartsuitblack" format="2">
-	<advance width="2386"/>
 	<unicode hex="2665"/>
+	<advance width="2386"/>
 	<outline>
 		<contour>
 			<point x="1190" y="-226" type="curve" smooth="yes"/>

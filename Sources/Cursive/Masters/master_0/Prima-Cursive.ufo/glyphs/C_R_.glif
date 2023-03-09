@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CR" format="2">
-	<advance width="515"/>
 	<unicode hex="000D"/>
-	<outline>
-	</outline>
+	<advance width="515"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

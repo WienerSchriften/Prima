@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae" format="2">
-	<advance width="1131"/>
 	<unicode hex="00E6"/>
-	<anchor x="862" y="0" name="bottom"/>
-	<anchor x="1204.594" y="0" name="ogonek"/>
-	<anchor x="1221" y="910" name="top"/>
+	<advance width="1131"/>
 	<outline>
 		<contour>
 			<point x="774" y="891" type="curve" smooth="yes"/>
@@ -89,6 +86,9 @@
 			<point x="784" y="504"/>
 		</contour>
 	</outline>
+	<anchor name="bottom" x="862" y="0"/>
+	<anchor name="ogonek" x="1204.594" y="0"/>
+	<anchor name="top" x="1221" y="910"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

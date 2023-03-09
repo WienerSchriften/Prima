@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finial.H" format="2">
 	<advance width="90"/>
-	<anchor x="-574" y="813" name="_center"/>
 	<outline>
 		<contour>
 			<point x="-858" y="776" type="curve" smooth="yes"/>
@@ -33,6 +32,7 @@
 			<point x="-916" y="776"/>
 		</contour>
 	</outline>
+	<anchor name="_center" x="-574" y="813"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

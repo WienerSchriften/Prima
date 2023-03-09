@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis.salt" format="2">
 	<advance width="1173"/>
-	<anchor x="2" y="448" name="#entry"/>
-	<anchor x="1241" y="448" name="#exit"/>
-	<anchor x="364" y="0" name="bottom"/>
-	<anchor x="751" y="0" name="ogonek"/>
-	<anchor x="580" y="910" name="top"/>
-	<anchor x="1342" y="895" name="topright"/>
 	<outline>
 		<contour>
 			<point x="269" y="878" type="curve" smooth="yes"/>
@@ -109,6 +103,12 @@
 			<point x="794" y="1154"/>
 		</contour>
 	</outline>
+	<anchor name="#entry" x="2" y="448"/>
+	<anchor name="#exit" x="1241" y="448"/>
+	<anchor name="bottom" x="364" y="0"/>
+	<anchor name="ogonek" x="751" y="0"/>
+	<anchor name="top" x="580" y="910"/>
+	<anchor name="topright" x="1342" y="895"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="2">
-	<advance width="970"/>
 	<unicode hex="00DF"/>
+	<advance width="970"/>
 	<outline>
 		<contour>
 			<point x="356" y="-50" type="curve" smooth="yes"/>
