@@ -26,6 +26,13 @@ Prima is [licensed](https://github.com/WienerSchriften/Prima/blob/main/LICENSE.m
 ## Installation and use
 For installation of the fonts please follow the procedure suitable for your operating system. After installation you may have to restart the application in which you want to use Prima. Prima cursive makes use of the 'contextual alternates' OpenType feature for the connecting strokes between letters. Other optional features such as the stylistic sets also rely on support for the OpenType technology (which has been the de-facto industry standard since 2001 and become an official ISO standard in 2007). Although it is widely supported, not all applications support all features and some applications do not support any OpenType features at all. In case of doubt, please contact the developer of your application and request the update of the outdated application.
 
+### Adobe Creative Cloud applications
+At the time of writing (28 September 2023), some Adobe Creative Cloud applications feature two different text composition engines that can be selected by the user. By default the older, less capable version is active and users have to choose the newer version for the shaping in Prima Cursive to work. The names may depend on your version and interface language, but tend to reference writing systems beyond Latin, see the screenshots below:
+
+<img width="661" alt="Screenshot 2023-09-28 at 08 12 24" src="https://github.com/WienerSchriften/Prima/assets/122893870/c7950649-208a-4682-aade-4221a2c6715c">
+<img width="799" alt="Screenshot 2023-09-28 at 08 12 07" src="https://github.com/WienerSchriften/Prima/assets/122893870/7627b25a-d256-4272-93a8-0aba9ae099e8">
+<img width="795" alt="Screenshot 2023-09-28 at 08 11 20" src="https://github.com/WienerSchriften/Prima/assets/122893870/e5cc3547-7d24-4531-8096-a9942b21fc81">
+
 ## Getting involved
 
 [Open an issue](https://github.com/wienerschriften/prima/issues) or send a suggestion to the designers of Prima for consideration in future developments.
