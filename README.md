@@ -1,6 +1,6 @@
 # Prima
 
-[Prima](https://www.schulschrift.at/) is a typeface family that has been designed to help in learning to read and write. Its development was initially commissioned by the [Wiener Bildungsserver](https://bildungsserver.wien/) and the first two styles, regular and cursive, were designed from 2021 to 2023 by Titus Nemeth ([Wiener Schriften](https://wienerschriften.at/)) and Martin Tiefenthaler ([typographische gesellschaft austria/tga](https://typographischegesellschaft.at/)). In 2024, the further development of Prima was funded by the ([Vienna Business Agency](https://wirtschaftsagentur.at/)), a fund of the city of Vienna.
+[Prima](https://www.schulschrift.at/) is a typeface family that has been designed to help in learning to read and write. Its development was initially commissioned by the [Wiener Bildungsserver](https://bildungsserver.wien/) and the first two styles, regular and cursive, were designed from 2021 to 2023 by Titus Nemeth ([Wiener Schriften](https://wienerschriften.at/)) and Martin Tiefenthaler ([typographische gesellschaft austria/tga](https://typographischegesellschaft.at/)). In 2024, the further development of Prima was funded by the [Vienna Business Agency](https://wirtschaftsagentur.at/), a fund of the city of Vienna.
 
 Prima uses the OpenType format and contains a number of features that provide additional, optional functionality. 
 
